@@ -1,2 +1,3 @@
-# solana-base58-codec
-Zero-dependency Base58 encoder and decoder for Solana public keys.
+# Solana Base58 Codec
+
+Pure Python Base58 encoding/decoding library.
